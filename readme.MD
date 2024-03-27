@@ -51,3 +51,7 @@ Siga as etapas abaixo para instalar e configurar o projeto:
 ## Uso
 
 Para iniciar o servidor de desenvolvimento, execute o seguinte comando:
+
+```bash
+    python manage.py runserver
+    ```
